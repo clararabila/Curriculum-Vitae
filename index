@@ -1,0 +1,206 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Clara rabila</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="https://kit.fontawesome.com/b99e675b6e.js"></script>
+</head>
+<body>
+
+<div class="resume">
+   <div class="resume_left">
+     <div class="resume_profile">
+       <img src="profile.jpg" alt="profile_pic">
+     </div>
+     <div class="resume_content">
+       <div class="resume_item resume_info">
+         <div class="title">
+           <p class="bold">E.Clara Rabila Tsani.H</p>
+           <p class="regular">Student</p>
+         </div>
+         <ul>
+           <li>
+             <div class="icon">
+               <i class="fas fa-map-signs"></i>
+             </div>
+             <div class="data">
+               Sukabumi, Juni 09 2004 <br />
+             </div>
+           </li>
+           <li>
+             <div class="icon">
+               <i class="fas fa-mobile-alt"></i>
+             </div>
+             <div class="data">
+               085559594858
+             </div>
+           </li>
+            <li>
+             <div class="icon">
+             <i class="fas fa-quran"></i>
+             </div>
+             <div class="data">
+               Moslem
+             </div>
+              </li>
+              <li>
+             <div class="icon">
+             <i class="fas fa-globe-americas"></i></i>
+             </div>
+             <div class="data">
+               Indonesia
+             </div>
+           </li>
+            <li>
+             <div class="icon">
+            <i class="fas fa-female"></i>
+             </div>
+             <div class="data">
+               Female
+             </div>
+           </li>
+         </ul>
+       </div>
+       <div class="resume_item resume_school">
+        <div class="title">
+           <p class="bold">School</p>
+          <ul>
+           <li>
+              <div class="icon">
+                <i class="fas fa-school"></i>
+                 </div>
+                 <div class="data">
+                  <div class="semi-bold">
+                    <p>SMKN 2 Kota Sukabumi</p>
+                  </div>
+             </div>
+           </li>
+           <li>
+            </li>
+            <div class="resume_item resume_majoring">
+         <div class="title">
+           <p class="bold">Majoring</p>
+         <ul>
+           <li>
+            <div class="icon">
+             <i class="fas fa-tv"></i> 
+            </div>
+             <div class="data">
+               <p>Rekayasa Perangkat Lunak</p>
+             </div>
+             <li>
+            <div class="resume_item resume_address">
+         <div class="title">
+           <p class="bold">Address</p>
+         <ul>
+           <li>
+            <div class="icon">
+              <i class="fas fa-map-marker-alt"></i>
+            </div>
+             <div class="data">
+               <p>Kp.Lebaksiuh 1
+                rt 24 rw 08
+               Kadudampit,Sukabumi,Jawa Barat</p>
+             </div>
+           </li>
+             </div>
+           </li>
+             </div>
+           </li>
+         </ul>
+       </div>
+       </div>
+       <div class="resume_item resume_social">
+         <div class="title">
+           <p class="bold">Social</p>
+         </div>
+         <ul>
+           <li>
+             <div class="icon">
+               <i class="fab fa-facebook-square"></i>
+             </div>
+             <div class="data">
+               <p class="semi-bold">Facebook</p>
+               <p>Clara Rabila</p>
+             </div>
+           </li>
+           <li>
+             <div class="icon">
+               <i class="fab fa-instagram-square"></i>
+             </div>
+             <div class="data">
+               <p class="semi-bold">Instagram</p>
+               <p>@Clararabila</p>
+             </div>
+              <li>
+             <div class="icon">
+               <i class="fas fa-envelope"></i>
+             </div>
+             <div class="data">
+              <p class="semi-bold">Email</p>
+               <p>clararabila@gmail.com</p>
+             </div>
+           </li>
+           </li>
+         </ul>
+       </div>
+         </ul>
+     </div>
+  </div>
+  <div class="resume_right">
+    <div class="resume_item resume_about">
+        <div class="title">
+         </div>
+    </div>
+    <div class="resume_item resume_education">
+        <div class="title">
+           <p class="bold"> Formal Education</p>
+         </div>
+        <ul>
+            <li>
+                <div class="date">2008 - 2010</div> 
+                <div class="info">
+                     <p class="semi-bold">RA Aisyiyah 02 Lebaksiuh</p> 
+                  <p>Jl.K.H.Abdul latief Lebaksiuh 1,kadudampit,Sukabumi</p>
+                </div>
+            </li>
+            <li>
+              <div class="date">2010 - 2016</div>
+              <div class="info">
+                     <p class="semi-bold"> MI Muhammadiyah Lebaksiuh 1</p> 
+                  <p>Jl.K.H.Abdul latief Lebaksiuh 1,Kec.kadudampit,Sukabumi</p>
+              </div>
+            </li>
+            <li>
+              <div class="date">2016 - 2019</div>
+              <div class="info">
+                     <p class="semi-bold">SMP Muhammadiyah 3 Kadudampit</p> 
+                  <p>Jl.K.H.Dahlan 1 Cipetir,Kec.Kadudampit,Kab.Sukabumi</p>
+                </div>
+            </li>
+           <li>
+             <div class="date">2019 - Present</div>
+              <div class="info">
+                     <p class="semi-bold">SMKN 2 Kota Sukabumi</p> 
+                  <p>Jl.Pelabuhan II.No.1,Rt1/6,Cikondang,Kec.Citamiang,Kota Sukabumi
+                </div>
+            </li>
+          </ul>
+        </ul>
+    </div>
+    <div class="resume_item resume_hobby">
+      <div class="title">
+           <p class="bold">Hobby</p>
+       <ul>
+         <li><i class="fas fa-book"></i></li>
+         <li><i class="fas fa-utensils"></i></li>
+         <li><i class="fas fa-music"></i></li>
+         <li><i class="fas fa-pen-alt"></i></li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>
